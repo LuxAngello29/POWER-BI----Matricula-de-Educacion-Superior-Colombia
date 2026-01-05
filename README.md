@@ -12,7 +12,7 @@ Este proyecto usa el conjunto de datos público **MEN_MATRICULA_ESTADISTICA_ES**
 - PBIX: [Proyecto.pbix](powerbi/Proyecto.pbix)
 
 ## Reporte en PDF
-- PDF: [Proyecto.pdf](docs/reporte.pdf)
+- PDF: [Proyecto.pdf](docs/Proyecto.pdf)
 
 ## Capturas
 
