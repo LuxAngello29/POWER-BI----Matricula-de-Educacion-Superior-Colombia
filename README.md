@@ -11,6 +11,9 @@ Este proyecto usa el conjunto de datos público **MEN_MATRICULA_ESTADISTICA_ES**
 ## Descargar el archivo Power BI
 - PBIX: [Proyecto.pbix](powerbi/Proyecto.pbix)
 
+## Reporte en PDF
+- PDF: [reporte.pdf](docs/reporte.pdf)
+
 ## Capturas
 
 ### Panel 1 — Referentes a UN
