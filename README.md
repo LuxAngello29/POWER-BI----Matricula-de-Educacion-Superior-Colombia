@@ -1,5 +1,12 @@
-# POWER-BI----Matricula-de-Educacion-Superior-Colombia
+# Dashboard Power BI — Matrícula de Educación Superior (Colombia) 2015–2024
 Dashboard en Power BI sobre matrícula de educación superior (2015–2024) usando datos abiertos del MEN.
+
+## Preguntas que responde
+- ¿Cómo cambia la matrícula por año y por género?
+- ¿Qué programas/núcleos concentran mayor matrícula?
+- ¿Cómo se distribuye la matrícula por departamento y sede en la Universidad Nacional de Colombia?
+- ¿Cual es el total de matrculados por departamento en el periodo del tiempo de la base de datos?
+
 
 ## Datos
 Este proyecto usa el conjunto de datos público **MEN_MATRICULA_ESTADISTICA_ES** del portal datos.gov.co.
